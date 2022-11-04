@@ -1,0 +1,19 @@
+{
+    "name": "Netmap",
+    "start_url": "./",
+    "display": "standalone",
+    "bakcground_color": "#fff",
+    "description": "Net Map app",
+    "icons": [
+        {
+            "src": "assets/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icon2.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
